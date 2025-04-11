@@ -1,1 +1,1 @@
-[Welcome to my homepage🥳](https://easycser.github.io/easycser/)
+[Welcome to my site🥳](https://easycser.github.io/easycser/)
